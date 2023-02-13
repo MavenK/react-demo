@@ -63,11 +63,11 @@ function App() {
 
   const handleClickYes = () => {
     setAccept(true);
-    setTitleApp('CHATTI KO WHAT TIME KA AVAILABLE.');
+    setTitleApp('CHAT WHAT TIME KA AVAILABLE ANA ANDRE KENT');
 
     setTimeout(() => {
       setAccept(false);
-      setTitleApp('Hi, beautiful. Will you be my valentine??');
+      setTitleApp('Hi, beautiful. Will you be my valentine?');
     }, 10000);
   };
 
