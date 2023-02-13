@@ -63,7 +63,7 @@ function App() {
 
   const handleClickYes = () => {
     setAccept(true);
-    setTitleApp('Pick you up at 3PM. :*');
+    setTitleApp('CHATTI KO WHAT TIME KA AVAILABLE.');
 
     setTimeout(() => {
       setAccept(false);
