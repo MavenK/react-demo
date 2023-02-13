@@ -67,7 +67,7 @@ function App() {
 
     setTimeout(() => {
       setAccept(false);
-      setTitleApp('Hi, beautiful. Will you be my valentine?');
+      setTitleApp('Hi, beautiful. Will you be my valentine??');
     }, 10000);
   };
 
